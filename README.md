@@ -47,6 +47,7 @@
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diffajl&show_icons=true&locale=en&layout=compact" alt="diffajl" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divdev77&show_icons=true&locale=en&layout=compact" alt="divdev77" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DivDev77&show_icons=true&locale=en&layout=compact" alt="divdev77" /></p>
 
 
