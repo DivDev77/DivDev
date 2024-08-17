@@ -53,7 +53,7 @@
 
 - 🔭 I'm currently studying programming fields such as **Mobile Development and Data Science**.
 
-- 🌱 I’m currently learning programming language like **Python, and **dart
+- 🌱 I’m currently learning programming language like **Python**, and **dart**
 
 - 💬 Ask me about **Programming especially on machine learning, data science, AI, and mobile development**
 
